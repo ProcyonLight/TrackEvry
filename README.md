@@ -1,8 +1,8 @@
 # TrackEvry
 
-Productivity Tracker for HACK UCI 2021
+Productivity Tracker : simple to-do list application
 
-Collaborated: Keagan Nguyen, Carlos Delgadillo, Soobin Woo, Julianna He
+Collaborators: Keagan Nguyen, Carlos Delgadillo, Soobin Woo, Julianna He
 
-To-do list app : in development
+Exploring web development and learning how to link backend with frontend using Google's Firebase database.
 
